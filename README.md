@@ -102,7 +102,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
   - [Moment.js locales are missing](#momentjs-locales-are-missing)
 - [Alternatives to Ejecting](#alternatives-to-ejecting)
 - [Something Missing?](#something-missing)
-
+ 
 ## Updating to New Releases
 
 Create React App is divided into two packages:
